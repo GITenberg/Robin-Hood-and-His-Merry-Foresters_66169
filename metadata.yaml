@@ -1,0 +1,40 @@
+_repo: Robin-Hood-and-His-Merry-Foresters_66169
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Gilbert, John
+    alias: Gilbert, Sir John
+    birthdate: 1817
+    deathdate: 1897
+    gutenberg_agent_id: '31359'
+    url: http://www.gutenberg.org/2009/agents/31359
+    wikipedia: https://en.wikipedia.org/wiki/John_Gilbert_(painter)
+creator:
+  author:
+    agent_name: Cundall, Joseph
+    alias: Percy, Stephen
+    birthdate: 1818
+    deathdate: 1895
+    gutenberg_agent_id: '40714'
+    url: http://www.gutenberg.org/2009/agents/40714
+    wikipedia: https://en.wikipedia.org/wiki/Joseph_Cundall
+description: ''
+gutenberg_issued: '2021-08-30'
+identifiers:
+  gutenberg: '66169'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Robin Hood (Legendary character) -- Juvenile fiction'
+- !lcsh 'Sheriffs -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Sherwood Forest (England) -- Juvenile fiction'
+- !lcsh 'Kings and rulers -- Juvenile fiction'
+- !lcsh 'Archery -- Juvenile fiction'
+- !lcsh 'Clergy -- Juvenile fiction'
+- !lcsh 'Outlaws -- Juvenile fiction'
+- GITenberg
+title: Robin Hood and His Merry Foresters
+url: http://www.gutenberg.org/ebooks/66169
