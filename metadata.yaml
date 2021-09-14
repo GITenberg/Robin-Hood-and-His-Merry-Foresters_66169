@@ -1,5 +1,5 @@
 _repo: Robin-Hood-and-His-Merry-Foresters_66169
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Gilbert, John
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '31359'
     url: http://www.gutenberg.org/2009/agents/31359
     wikipedia: https://en.wikipedia.org/wiki/John_Gilbert_(painter)
+covers:
+- cover_type: archival
+  image_path: 66169-h/images/cover.jpg
 creator:
   author:
     agent_name: Cundall, Joseph
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40714
     wikipedia: https://en.wikipedia.org/wiki/Joseph_Cundall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66169#Robin-Hood-and-His-Merry-Foresters
 gutenberg_issued: '2021-08-30'
 identifiers:
   gutenberg: '66169'
